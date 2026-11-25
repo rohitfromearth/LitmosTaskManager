@@ -8,6 +8,10 @@ React Native (Android and iOS) task manager in TypeScript. Local SQLite is the s
 
 **Not implemented:** backend/API server, remote sync, NetInfo-driven offline queue. See [`docs/API.md`](docs/API.md) and [`docs/DATA_AND_SYNC.md`](docs/DATA_AND_SYNC.md).
 
+## Demo video
+
+[Watch the demo on Google Drive](https://drive.google.com/file/d/11FDQF7u3LrrCMaSoVDas7RG8lLb7B_Tt/view?usp=sharing)
+
 ## Stack
 
 - React Native `0.88.1`, React `19.3`, TypeScript
