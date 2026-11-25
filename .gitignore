@@ -66,6 +66,16 @@ yarn-error.log
 # testing
 /coverage
 
+# Environment files and credentials (.env.example documents required variables)
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+*.p8
+*.p12
+
 # Yarn
 .yarn/*
 !.yarn/patches
